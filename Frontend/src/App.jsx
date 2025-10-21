@@ -38,7 +38,7 @@ function App() {
     const fetchData = async () => {
       setLoading(true);
       try {
-        const response = await fetch("https://dashboard-hntf.onrender.com/api/data");
+        const response = await fetch("https://viz-dashboard-kqzs.onrender.com/api/data");
         const jsonData = await response.json();
         setData(jsonData);
       } catch (error) {
