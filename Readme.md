@@ -4,7 +4,7 @@ This is a responsive and interactive data visualization dashboard built to explo
 
 ## 🚀 Live Deployment
 
-🔗 [Click here to view the live dashboard](https://dashboard-ej3v.vercel.app/)  
+🔗 [Click here to view the live dashboard](https://dashboard-ratp.vercel.app/)  
 *(Deployed on Vercel with backend hosted on Render)*
 
 ## 🛠 Tech Stack
